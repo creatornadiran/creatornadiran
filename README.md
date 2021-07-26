@@ -1,7 +1,4 @@
 
-![](https://activity-graph.herokuapp.com/graph?username=creatornadiran&theme=react-dark&hide_border=true&area=true)
-
----
 
 ## Github status
 </div>
@@ -11,6 +8,10 @@
 <p align='right'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=creatornadiran&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
 
 <div align="center"> 
+	
+---
+	
+![](https://activity-graph.herokuapp.com/graph?username=creatornadiran&theme=react-dark&hide_border=true&area=true)
 	
 ---
 	
