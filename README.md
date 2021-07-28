@@ -1,6 +1,7 @@
 
+<div align="center"> 
 
-## Github status
+## Github Status
 </div>
 
 <p align='left'><img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=creatornadiran&count_private=true&theme=radical"/></p>
@@ -15,7 +16,7 @@
 	
 ---
 	
-## My Stack Overflow Stats:
+## Stack Overflow Stats
 
 [<img height="137px" src="https://stackoverflow-card.vercel.app/?userID=14572352&theme=dracula"/>][stackoverflow]
 	
