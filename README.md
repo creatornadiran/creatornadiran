@@ -20,7 +20,7 @@
 	
 ---
 	
-![](https://activity-graph.herokuapp.com/graph?username=creatornadiran&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=creatornadiran&theme=react-dark&area=true&hide_border=true" width="100%">
 	
 ---
 	
